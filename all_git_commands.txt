@@ -1,0 +1,8 @@
+git init {initialize git in a folder}
+git status {to know what files are staged}
+git add <file> {to add the file to the staging area}
+git add . {add all the files in the working directory to the staging area}
+git commit -m "Your Message" {Commit with a message for future reference}
+git log {shows the time of commitment and author who commited}
+git diff <file> {shows the difference between the last version and the updated version of the modified file}
+git checkout <file> {roll back to the last commit of the file}
