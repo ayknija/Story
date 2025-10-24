@@ -6,3 +6,4 @@ git commit -m "Your Message" {Commit with a message for future reference}
 git log {shows the time of commitment and author who commited}
 git diff <file> {shows the difference between the last version and the updated version of the modified file}
 git checkout <file> {roll back to the last commit of the file}
+git remote add origin <github URL> {tell our local git that I want to transfer all my commits on a remote repo}
